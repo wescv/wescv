@@ -3,7 +3,7 @@
   <h1 align="center">  My name is Wesley Vieira 😉</h1> 
 </p>
 
-- 🔭 I’m currently lokking for job;
+- 🔭 I’m currently looking for new job opportunities;
 - 💻 I’m currently studing more about React and Outsystems 😀;
 - ⚡ Doing projects in JavaScript, Reactjs and Ousystems;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleycvieira@gmail.com)](mailto:wesleycvieira@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-vieira-br/)](https://www.linkedin.com/in/wesley-vieira-br/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351916073955)
